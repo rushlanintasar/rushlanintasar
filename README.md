@@ -6,7 +6,7 @@
 ## 💻 Skills
 
 - MS Office (Word, Excel, PowerPoint)  
-- Canva (Graphic Design, Presentations)  
+- Canva & Adobe Photoshop (Graphic Design, Presentations)  
 - Data Entry & Documentation  
 - Team Management & Communication  
 
