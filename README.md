@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Md. Rushlan Intasar Rafid
 
-<!--
-**rushlanintasar/rushlanintasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying Accounting & Information Systems at BUP.  
+💡 I’m passionate about combining creativity with digital tools.  
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MS Office (Word, Excel, PowerPoint)  
+- Canva (Graphic Design, Presentations)  
+- Data Entry & Documentation  
+- Team Management & Communication  
+
+## 🌱 Learning Goals
+
+- Digital productivity tools  
+- Basic design & content creation  
+- Leadership & teamwork through volunteering  
+
+## 📫 Let's Connect
+
+- 📍 Dhaka, Bangladesh  
+- 📧 Email: rushlanintasar03@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rushlanintasar)  
+
+---
+
+> “Represent with purpose. Lead with passion.”  
+> – ILC Campus Representative, 2025
